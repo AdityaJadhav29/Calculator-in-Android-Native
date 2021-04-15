@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="b1">Addition</string>
+    <string name="b2">Subtraction</string>
+    <string name="res">Result</string>
+    <string name="mul">Multiply</string>
+    <string name="div">Divide</string>
+    <string name="pwr">Power</string>
+    <string name="num">Enter Number</string>
+</resources>
